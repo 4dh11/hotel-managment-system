@@ -1,3 +1,5 @@
 # hotel-managment-system
-download and store the "hotel management" folder in your desktop
-otherwise it wouldn't work
+Download and store the "hotel management" folder in your desktop
+Otherwise it wouldn't work
+Open the "Thamanyas Resort" file for the code
+Thank You
